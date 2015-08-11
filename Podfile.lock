@@ -24,14 +24,14 @@ PODS:
     - AFNetworking (~> 2.0)
 
 DEPENDENCIES:
-  - pod-library (from `../pod-library`)
+  - pod-library (from `pod-library`)
 
 EXTERNAL SOURCES:
   pod-library:
-    :path: ../pod-library
+    :path: pod-library
 
 SPEC CHECKSUMS:
   AFNetworking: 05edc0ac4c4c8cf57bcf4b84be5b0744b6d8e71e
-  pod-library: 407b85e87ba0fec2c2da95d415ffad1a1ca25472
+  pod-library: df501f7437c60da6d94a43197f331981093642a3
 
 COCOAPODS: 0.38.2
