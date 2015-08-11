@@ -1,0 +1,3 @@
+[submodule "pod-library"]
+	path = pod-library
+	url = git@github.com:jjz/pod-library.git
